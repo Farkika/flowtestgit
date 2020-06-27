@@ -1,0 +1,1 @@
+A POSIX az egy szabvány, amiben az van benne, hogy minden forráskód legyen nyilvános.
