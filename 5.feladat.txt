@@ -1,0 +1,4 @@
+/bin : Futtatható programokat tartalmazó könyvtár.
+/etc : Rendszerkonfigurációs fájlok.
+/usr : 
+/home : A felhasználók saját fájljai.
