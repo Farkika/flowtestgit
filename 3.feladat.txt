@@ -1,0 +1,2 @@
+Az stdin a standard input, alap esetben a billentyűzet.
+Az stdout a standard output, alap esetben a képerny.
