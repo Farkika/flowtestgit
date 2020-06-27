@@ -1,0 +1,5 @@
+Abszolút:
+/home/user/folder1
+
+Relatív:
+./alma.txt
